@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "TU_USUARIO_GITHUB",
+    "email": "tu@email.com"
+  },
+  "domain": "volka9",
+  "records": {
+    "CNAME": "velvety-pixie-9f3177.netlify.app"
+  }
+}
